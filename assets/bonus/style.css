@@ -1,0 +1,94 @@
+body {
+    margin-right: 25%;
+    margin-left: 25%;
+} 
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: auto;
+    aspect-ratio: 1 / 1;
+}
+
+.card_body {
+    background-color: rgb(9, 230, 245);
+    height: 100%;
+    width:  100%;
+}
+
+.container_2 .card_body_1, .container_2 .card_body_12 {
+    background-color: greenyellow;
+}
+
+.container_3 .card_body_1, .container_3 .card_body_12 {
+    background-color: greenyellow;
+}
+
+.container_4 .card_body_1, .container_4 .card_body_12 {
+    background-color: greenyellow;
+} 
+
+.container_5 .card_body_1, .container_5 .card_body_12 {
+    background-color: greenyellow;
+} 
+
+
+.container_6 .card_body_2, .container_6 .card_body_11 {
+    background-color: greenyellow;
+} 
+
+.container_7 .card_body_2, .container_7 .card_body_11 {
+    background-color: greenyellow;
+} 
+
+
+.container_8 .card_body_3, .container_8 .card_body_10 {
+    background-color: greenyellow;
+} 
+
+.container_9 .card_body_4, .container_9 .card_body_9 {
+    background-color: greenyellow;
+} 
+
+.container_10 .card_body_5, .container_10 .card_body_6, .container_10 .card_body_7, .container_10 .card_body_8 {
+    background-color: greenyellow;
+} 
+
+.container_9 .card_body_5, .container_9 .card_body_6, .container_9 .card_body_7, .container_9 .card_body_8 {
+    background-color: red;
+}
+
+.container_8 .card_body_4, .container_8 .card_body_5, .container_8 .card_body_6, .container_8 .card_body_7, .container_8 .card_body_8,.container_8 .card_body_9 {
+    background-color: red;
+}
+
+.container_7 .card_body_3,.container_7 .card_body_4, .container_7 .card_body_5, .container_7 .card_body_8,.container_7 .card_body_9 ,.container_7 .card_body_10 {
+    background-color: red;
+}
+
+.container_6 .card_body_3,.container_6 .card_body_4, .container_6 .card_body_6, .container_6 .card_body_7,.container_6 .card_body_9 ,.container_6 .card_body_10 {
+    background-color: red;
+}
+
+.container_5 .card_body_2,.container_5 .card_body_3,.container_5 .card_body_4, .container_5 .card_body_5, .container_5 .card_body_6, .container_5 .card_body_7,.container_5 .card_body_8, .container_5 .card_body_9 ,.container_5 .card_body_10,.container_5 .card_body_11 {
+    background-color: red;
+}
+
+.container_4 .card_body_2,.container_4 .card_body_3, .container_4 .card_body_6, .container_4 .card_body_7,.container_4 .card_body_10,.container_4 .card_body_11 {
+    background-color: red;
+}
+
+.container_3 .card_body_2,.container_3 .card_body_3, .container_3 .card_body_6, .container_3 .card_body_7,.container_3 .card_body_10,.container_3 .card_body_11 {
+    background-color: red;
+}
+
+.container_2 .card_body_2,.container_2 .card_body_3, .container_2 .card_body_4,.container_2 .card_body_5, .container_2 .card_body_6, .container_2 .card_body_7, .container_2 .card_body_8, .container_2 .card_body_9,.container_2 .card_body_10,.container_2 .card_body_11 {
+    background-color: red;
+}
+
+.container_3 .card_body_5,.container_3 .card_body_8 {
+    background-color: black;
+}
+
