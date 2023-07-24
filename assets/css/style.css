@@ -3,7 +3,10 @@
     justify-content: center;
     align-items: center;
     background-color: rgb(9, 230, 245);
-    height: 100px;
+    min-height: 100px;
     width: 100%;
-    }
+}
 
+.card_body1 {
+    background-color: rgb(9, 245, 135);
+}

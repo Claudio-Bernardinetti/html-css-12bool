@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-.debug [class^="col-"] {
+/* .debug [class^="col-"] {
     background-color: aquamarine;
     height: 200px;
     border: 1px dashed;
-}
+} */
 
 .img-fluid {
     max-width: 100%;
@@ -19,7 +19,10 @@
 }
 
 .p-1 {
-    padding: 0.1rem 0.1rem;
+    padding: 0.1rem;
+}
+.p-5 {
+    padding: 0.5rem;
 }
 
 .m-1 {
