@@ -1,0 +1,9 @@
+.card_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(9, 230, 245);
+    height: 100px;
+    width: 100%;
+    }
+
